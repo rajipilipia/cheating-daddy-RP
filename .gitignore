@@ -93,3 +93,11 @@ typings/
 out/
 .specstory
 .specstory/
+
+# Local customizations
+.claude/
+.mcp.json
+settings.local.json
+start-claude-local.bat
+guide.md
+src/utils/sample prompts.txt
